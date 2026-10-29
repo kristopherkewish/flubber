@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "id": "20260901-01",
+      "date": "2026-09-01",
+      "title": "Tiny HTTP server",
+      "pitch": "x",
+      "tier": "short",
+      "areas": [
+        "networking"
+      ],
+      "tags": [],
+      "languages": [
+        "go"
+      ],
+      "sources": [],
+      "reaction": "picked",
+      "reason": "",
+      "status": "in-progress",
+      "repo": "D:\tiny-http",
+      "retro": null
+    }
+  ]
+}

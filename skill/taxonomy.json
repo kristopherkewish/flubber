@@ -1,0 +1,25 @@
+{
+  "note": "Seeded from Teach Yourself CS (teachyourselfcs.com, recalled from memory; verify) plus extra areas. Edit freely.",
+  "areas": [
+    { "id": "programming-fundamentals", "name": "Programming paradigms", "probe": "functional programming, interpreters, SICP-style ideas" },
+    { "id": "computer-architecture", "name": "Computer architecture", "probe": "CPU, memory hierarchy, assembly, building an emulator" },
+    { "id": "algorithms-data-structures", "name": "Algorithms and data structures", "probe": "implementing trees, graphs, heaps, tries; complexity analysis" },
+    { "id": "math-for-cs", "name": "Math for CS", "probe": "discrete maths, probability, linear algebra applied in code" },
+    { "id": "operating-systems", "name": "Operating systems", "probe": "processes, threads, scheduling, filesystems, syscalls" },
+    { "id": "networking", "name": "Networking", "probe": "raw sockets, TCP/UDP, writing a protocol or HTTP server from scratch" },
+    { "id": "databases", "name": "Database internals", "probe": "storage engines, indexes, B-trees, query planning, transactions" },
+    { "id": "languages-compilers", "name": "Languages and compilers", "probe": "lexers, parsers, ASTs, bytecode VMs, type checkers" },
+    { "id": "distributed-systems", "name": "Distributed systems", "probe": "consensus, replication, queues, eventual consistency" },
+    { "id": "concurrency", "name": "Concurrency and parallelism", "probe": "async runtimes, lock-free ideas, actors, data races" },
+    { "id": "ai-agents", "name": "AI agents and LLM workflows", "probe": "tool use, MCP, agent loops, evals, RAG" },
+    { "id": "ml-data-science", "name": "Machine learning and data science", "probe": "Python, numpy/pandas, training or evaluating a model" },
+    { "id": "embedded-hardware", "name": "Embedded and hardware", "probe": "microcontrollers, GPIO, I2C/SPI, firmware, real-time constraints" },
+    { "id": "signal-processing-audio", "name": "Signal processing and audio", "probe": "FFT, filters, synthesis, DSP" },
+    { "id": "graphics-games", "name": "Graphics and game engines", "probe": "rendering, shaders, ECS, physics, game loops" },
+    { "id": "security-crypto", "name": "Security and cryptography", "probe": "crypto primitives, auth flows, fuzzing, reverse engineering" },
+    { "id": "scientific-computing", "name": "Scientific computing and simulation", "probe": "numerical methods, cheminformatics, simulations, bioinformatics" },
+    { "id": "systems-languages", "name": "Systems languages (Rust, Go, C)", "probe": "manual memory, ownership, low-level performance" },
+    { "id": "devops-infra", "name": "DevOps and infrastructure", "probe": "containers, orchestration, observability, IaC" },
+    { "id": "performance-engineering", "name": "Performance engineering", "probe": "profiling, benchmarking, cache effects, optimisation" }
+  ]
+}

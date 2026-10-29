@@ -1,0 +1,106 @@
+{
+  "areas": {
+    "programming-fundamentals": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "computer-architecture": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "algorithms-data-structures": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "math-for-cs": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "operating-systems": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "networking": {
+      "level": "shallow",
+      "lastTouched": "2026-09-01",
+      "projects": [
+        "20260901-01"
+      ]
+    },
+    "databases": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "languages-compilers": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "distributed-systems": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "concurrency": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "ai-agents": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "ml-data-science": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "embedded-hardware": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "signal-processing-audio": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "graphics-games": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "security-crypto": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "scientific-computing": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "systems-languages": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "devops-infra": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    },
+    "performance-engineering": {
+      "level": "untouched",
+      "lastTouched": null,
+      "projects": []
+    }
+  }
+}
